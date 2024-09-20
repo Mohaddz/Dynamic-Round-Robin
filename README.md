@@ -1,7 +1,7 @@
 # Dynamic-Round-Robin
 An Operating System project that compares two kinds of scheduling, Dynamic Round Robin VS Normal Round Robin.
 
-To read all the details of the experiment you can click (here)[https://mohaddz.github.io/portfolio/projects/drr/].
+To read all the details of the experiment you can click [here](https://mohaddz.github.io/portfolio/projects/drr/).
 
 1. Main class is called DRR
 All the queues are imported as normal queues except HoldQ1 where its imported as priority queue.
