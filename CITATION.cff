@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dynamic vs Normal Round Robin
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mohammed
+    family-names: AL-Namri
+    email: Mohammed_alnamri@hotmail.com
+    affiliation: King Abdulaziz University
+repository-code: 'https://github.com/Mohaddz/Dynamic-Round-Robin'
+url: 'https://mohaddz.github.io/portfolio/projects/drr/'
+abstract: >-
+  A study about computer operating system that compares two
+  kinds of CPU scheduling, Dynamic Round Robin & Normal
+  Round Robin.
+license: MIT
+date-released: '2022-11-24'
