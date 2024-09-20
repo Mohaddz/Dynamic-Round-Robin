@@ -12,3 +12,15 @@ All the queues are imported as normal queues except HoldQ1 where its imported as
 
 4. Comparator class where it contains one function and that is used in the priority queue to help sorting the priorities the queue based on the memeory units
 that the process use.
+
+Citation
+```
+@software{AL-Namri_Dynamic_vs_Normal_2022,
+author = {AL-Namri, Mohammed},
+license = {MIT},
+month = nov,
+title = {{Dynamic vs Normal Round Robin}},
+url = {https://github.com/Mohaddz/Dynamic-Round-Robin},
+year = {2022}
+}
+```
